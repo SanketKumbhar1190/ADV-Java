@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class UserManagement {
     private static final String DB_URL = "jdbc:mysql://127.0.0.1:3306/advjavab2";
     private static final String DB_USER = "root";
-    private static final String DB_PASSWORD = "cdac";
+    private static final String DB_PASSWORD = "root";
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
