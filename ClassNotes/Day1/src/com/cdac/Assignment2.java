@@ -24,7 +24,7 @@ Create a Java Console Application that allows the User to create a new table wit
 ->Show all the columns above and ask him to select the column to act as a primary key
 	c. Save
 	->this will result in saving the Table to the underlying database
-	 hello world
+	 hello world hi there
 	
 2. Display Columns of a Table
 -> Accept the name of the table and show Only the column names in that table
